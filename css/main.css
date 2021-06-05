@@ -97,6 +97,10 @@ code{
   display: none;
 }
 
+#mobile2{
+  display: none;
+}
+
 .highlight{
   padding: 4px 6px;
   margin: 0px 0.1em;
@@ -824,6 +828,10 @@ color: var(--grey600);
   #mobile{
     display: block;
   }
+
+  #mobile2{
+    display: none;
+  }
   
   .nav{
     height: 50px;
@@ -913,6 +921,14 @@ color: var(--grey600);
 
 @media screen and (max-width: 500px){
   /*------index.html------*/
+  #mobile{
+    display: block;
+  }
+
+  #mobile2{
+    display: block;
+  }
+
   b, code, .highlight{
     padding: 2px 6px;
   }
