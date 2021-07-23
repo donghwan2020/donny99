@@ -901,8 +901,8 @@ color: var(--grey600);
   }
 
   .p_body{
-    font-size: 0.95em;
-    line-height: 28px;
+    font-size: 1em;
+    line-height: 25px;
   }
 
   .p_box_3, .p_box_container{
@@ -1038,17 +1038,17 @@ color: var(--grey600);
   /*-------*/
   
   .p_title_kr, .p_title_en{
-    font-size: 0.95em;
+    font-size: 1em;
   }
   
   .p_title_en{
-    font-size: 1.05em;
+    font-size: 1.1em;
   }
 
   .p_body{
-    font-size: 0.95em;
+    font-size: 1em;
     letter-spacing: -.2px;
-    line-height: 28px;
+    line-height: 25px;
   }  
 
   .p_container{
