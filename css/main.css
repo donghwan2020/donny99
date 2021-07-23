@@ -901,7 +901,7 @@ color: var(--grey600);
   }
 
   .p_body{
-    font-size: 1.08em;
+    font-size: 0.95em;
     line-height: 37px;
   }
 
@@ -1038,15 +1038,15 @@ color: var(--grey600);
   /*-------*/
   
   .p_title_kr, .p_title_en{
-    font-size: 1.1em;
+    font-size: 0.95em;
   }
   
   .p_title_en{
-    font-size: 1.2em;
+    font-size: 1.05em;
   }
 
   .p_body{
-    font-size: 1.1em;
+    font-size: 0.95em;
     letter-spacing: -.2px;
     line-height: 35px;
   }  
