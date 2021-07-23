@@ -902,7 +902,7 @@ color: var(--grey600);
 
   .p_body{
     font-size: 0.95em;
-    line-height: 37px;
+    line-height: 33px;
   }
 
   .p_box_3, .p_box_container{
@@ -1048,7 +1048,7 @@ color: var(--grey600);
   .p_body{
     font-size: 0.95em;
     letter-spacing: -.2px;
-    line-height: 35px;
+    line-height: 32px;
   }  
 
   .p_container{
