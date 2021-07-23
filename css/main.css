@@ -1056,11 +1056,11 @@ color: var(--grey600);
   }  
   
   .refer_container{
-    font-size: 1.1em;
+    font-size: .95em;
   }
 
   .refer{
-    font-size: .9em;
+    font-size: .95em;
     line-height: 32px;
   }
 
