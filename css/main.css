@@ -135,10 +135,12 @@ code{
   display: block;
   margin: auto;
   margin-top: 35px;
+  opacity: 20%;
 }
 
 .link{
   text-decoration: underline;
+  color: var(--grey800);
 }
 
 .link:hover{
@@ -454,6 +456,13 @@ input:checked + .slider:before{
 
 .icon3{
   width: 41px;
+}
+
+.icon5{
+  width: 50px;
+  height: 40px;
+  margin-left: 12px;
+  padding-right: 20px;
 }
 
 .icon4{
